@@ -1,5 +1,15 @@
-# 💫 About Me:
-🔭 I’m currently working on  <br>Building AI-powered tools, full-stack web apps, and systems that solve real-world problems.<br><br>🤝 I’m looking to collaborate on  <br>AI products, SaaS tools, and projects with real users and revenue potential.<br><br>🛠 I’m looking for help with  <br>Scaling projects, system design, and advanced backend architecture.<br><br>🌱 I’m currently learning  <br>Full-stack development, AI integration, and building profitable tech products.<br><br>💬 Ask me about  <br>AI tools, productivity systems, web development, and building in public.<br><br>⚡ Fun fact  <br>I treat coding like a business skill, not just an academic subject.
+## About Me
+
+Builder focused on full-stack development, AI integration, and shipping useful tools.
+
+I use GitHub to document growth, experiments, and real project builds  
+while moving toward scalable products and strong engineering fundamentals.
+
+Current focus:
+- Full-stack engineering
+- AI-powered applications
+- System design and backend depth
+- Consistent shipping
 
 
 ## 🌐 Socials:
