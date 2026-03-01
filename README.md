@@ -36,8 +36,5 @@ Current focus:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbdulWasay0029&theme=tokyonight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulWasay0029&theme=tokyonight&hide_border=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=AbdulWasay0029&icon=0&color=1)](https://visitcount.itsvg.in)
