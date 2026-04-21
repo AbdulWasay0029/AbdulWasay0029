@@ -1,7 +1,7 @@
 # Abdul Wasay Shumail
 
 **CS undergraduate · Backend Engineer · Competitive Programmer**
-CMRIT Hyderabad · Product Lead @ Prompt Techies · he/him
+CMRIT Hyderabad · App Development Lead @ Prompt Techies · he/him
 
 Computer Science undergraduate focused on backend systems and algorithmic problem-solving. I build real projects alongside my degree — not just tutorials. Currently active in competitive programming, backend API development, and community-driven engineering at college level.
 
