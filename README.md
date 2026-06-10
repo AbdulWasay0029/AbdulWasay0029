@@ -1,50 +1,113 @@
-# Abdul Wasay Shumail
+<!-- Header -->
+<div align="center">
 
-**I automate repetitive work. I build systems that ship.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=Abdul%20Wasay%20Shumail&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-CS undergrad @ CMRIT Hyderabad · App Dev Lead @ Prompt Techies · Builder for Hire
+</div>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-abdulwasay0029.vercel.app-00ff88?style=flat-square&logoColor=black)](https://abdulwasay0029.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulwasay0029/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/abdulwasay0029/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdulwasay0029@gmail.com)
+<div align="center">
+  <a href="https://linkedin.com/in/abdulwasay0029"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/AgentRanger"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://codechef.com/users/abdulwasay0029"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://codesync-hub.vercel.app"><img src="https://img.shields.io/badge/CodeSync-00D4AA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="mailto:abdulwasay0029@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
 
----
-
-## What I build
-
-Most of what I ship replaces manual work or saves hours every week. If something is repetitive, I automate it.
-
-```
-Bots & Automation     →  Discord, Telegram, scheduled pipelines, multi-platform scrapers
-Backend & APIs        →  REST APIs, JWT auth, RBAC, async processing, database design
-AI-Powered Tools      →  LLM integrations, RAG pipelines, custom ML models from scratch
-Landing Pages & Web   →  Fast, clean sites for businesses that need to look credible
-Workflow Glue         →  Connect anything to anything — Notion, Sheets, Slack, webhooks
-```
-
-> If you need something built — [drop me a project brief](https://abdulwasay0029.vercel.app#book).
+<br/>
 
 ---
 
-## Projects
+## I notice friction. Then I remove it.
 
-| Project | Stack | What it does |
-|---|---|---|
-| [CodeSync Bot](https://github.com/AbdulWasay0029/Coding-Tracker) | TypeScript · Node.js · PostgreSQL · Prisma · GitHub Actions | Tracks coding activity across 5 platforms daily. Automated reports, retry logic, encrypted credentials. Got cited at another campus — a dev rebuilt it independently and reached out at 2am. |
-| [AI Medical Image Analysis](https://github.com/AbdulWasay0029/AI_Powered_Medical_Image_Analysis) | Python · TensorFlow/Keras · Flask | CNN trained from scratch on 5,000+ chest X-rays for pneumonia detection. ~98% recall. No pre-built APIs — raw pipeline from preprocessing to prediction to web UI. |
-| [HealthSync API](https://github.com/AbdulWasay0029/DTSRP) | Python · FastAPI · MongoDB Atlas · JWT · React Native · Expo | Family RBAC backend for a caregiver-patient medical reminder app. Shipped as a working Android APK. |
-| [Vice — Voice Assistant](https://github.com/AbdulWasay0029/Vice) | Python · SpeechRecognition · pyttsx3 | Modular wake-word voice assistant for desktop automation. Local-only, privacy-first, extensible action system. |
-| [LMS Marketplace](https://github.com/AbdulWasay0029/Real-World-LMS-eLearning-Marketplace) | Next.js · MongoDB · JWT · Stripe | Full-stack eLearning platform — courses, auth, payments, instructor/student flows. |
-| [Volt](https://github.com/AbdulWasay0029/Volt) | Next.js · Firebase · Google GenAI · Recharts | AI-first web app with deep Genkit integration, real-time data viz, and Zod-validated inputs. |
-| [CropSaviour](https://github.com/AbdulWasay0029/crop-app) | Next.js · TypeScript · Capacitor · Gemini API | Hybrid web/mobile crop disease detection app. Offline-capable, multilingual (EN/Telugu), ships as Android APK. |
-| [Task Manager API](https://github.com/AbdulWasay0029/Task-manager) | Node.js · Express · MongoDB · Socket.io | Real-time collaborative task manager with JWT auth, websockets, and a full React frontend. |
+Second-year CS undergrad at CMRIT Hyderabad. I build systems that solve real problems — not demo projects, not tutorials. Real problems I ran into and got annoyed enough to fix.
+
+The best example: I was manually copying my daily solved coding links into a Discord server every night. So I wrote a `.bat` script. Then rebuilt it as a Discord bot. Then kept going for 8 architectural phases until it became **CodeSync** — a full platform with a web dashboard, admin portal, global leaderboard, AES-256 encryption, contest reminders, and a User Installable Discord App.
+
+[codesync-hub.vercel.app →](https://codesync-hub.vercel.app)
+
+---
+
+## Competitive Programming
+
+```
+Platform        Rating        Peak       Solved     Contests
+────────────────────────────────────────────────────────────
+LeetCode        1,648         1,650      204        26         Top 18.05% globally
+CodeChef        1,392         1,451      357        29         Global Rank 1,324 at peak
+HackerRank      ─             ─          66         ─          5-Star Problem Solving
+SmartInterviews ─             ─          605 sub    ─          Advanced Batch (CSE-G)
+────────────────────────────────────────────────────────────
+Total                                    630+
+```
+
+**Contest results that matter:**
+
+- 🥇 Rank 1 / 226 — CMRIT × CMRTC Internal Contest 1
+- 🥇 Rank 1 / 90 — CMRIT Internal Contest 2
+- 🥇 Rank 1 / 104 — CMRIT Internal Contest 4 (5/5 solved)
+- 🥇 Rank 1 / 181 — SmartInterviews Assessment 2
+- 🏆 Selected into Advanced Training Batch (CSE-G) — top performers cohort
+
+---
+
+## What I've Built
+
+### [CodeSync](https://codesync-hub.vercel.app) — Competitive Programming Tracker
+`TypeScript` `Node.js` `Next.js` `Discord.js` `PostgreSQL` `AES-256`
+
+A full CP tracking platform. Started as a `.bat` file. Rebuilt 8 times.
+
+- Discord bot deployable to any server via landing page
+- Tracks LeetCode, Codeforces, CodeChef, HackerRank, SmartInterviews (reverse-engineered internal API)
+- Next.js web dashboard — Discord OAuth, contribution graph, global leaderboard
+- Server Admin Portal for non-technical community leaders
+- AES-256 token encryption, in-memory caching, parallel DB writes
+- Autonomous contest reminders — mathematical schedule prediction + live API polling
+- Deployed as Discord User Installable App
+
+> A faculty member cited it to students at another campus. A developer independently rebuilt it without seeing my repo, then reached out at 2am: *"it's actually way bigger than I imagined."*
+
+---
+
+### [PrepTrack](https://github.com/AbdulWasay0029) — AI Interview Readiness Platform
+`Node.js` `Express` `PostgreSQL` `React` `Gemini API` `Google OAuth`
+
+Full-stack interview prep platform — REST API, database schema, Google OAuth, AI-generated feedback, deployed on Render + Vercel.
+
+---
+
+### [HealthSync](https://github.com/AbdulWasay0029/DTSRP) — Medical Reminder App
+`FastAPI` `Python` `MongoDB Atlas` `JWT` `React Native` `Expo`
+
+Caregiver-patient medication tracking system. Family RBAC, per-group data isolation. Shipped as a working Android APK.
+
+---
+
+### [AI Medical Image Analysis](https://github.com/AbdulWasay0029/AI_Powered_Medical_Image_Analysis)
+`Python` `TensorFlow/Keras` `Flask` `CNN`
+
+CNN trained from scratch on chest X-ray datasets for pneumonia detection. Full pipeline: preprocessing → training → inference → Flask API.
+
+---
+
+### [LMS Market](https://github.com/AbdulWasay0029/Real-World-LMS-eLearning-Marketplace)
+`Node.js` `React` `MongoDB`
+
+Multi-role eLearning marketplace. Student/instructor accounts, course CRUD, YouTube API integration for in-platform streaming.
+
+---
+
+### [CropSaviour](https://github.com/AbdulWasay0029/crop-app) — NeuraX Hackathon 2025
+`Python` `Gemini API` `React Native`
+
+AI crop disease detection with bilingual support (Telugu/English). Built in 24 hours, rebuilt post-hackathon with improved architecture.
 
 ---
 
 ## Stack
 
 **Languages**
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -52,44 +115,51 @@ Workflow Glue         →  Connect anything to anything — Notion, Sheets, Slac
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 **Backend & Databases**
+
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
 **AI & ML**
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 **Tools & Infra**
+
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
 
 ---
 
-## Competitive Programming
+## GitHub Stats
 
-```
-LeetCode    →  1619 rating · Top 20.93% globally · 193 problems solved
-CodeChef    →  1451 peak · 348 problems solved · 26 contests
-Contests    →  Rank 1 — CMRIT Internal Contest #4 (5/5 problems, 110+ participants)
-            →  Rank 1 — Contests #1 and #2
-```
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AbdulWasay0029&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&hide=issues,prs,stars&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulWasay0029&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" />
+</div>
 
----
+<br/>
 
-## Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulWasay0029&theme=tokyonight&hide_border=true" />
+</div>
 
-<p align="left">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=AbdulWasay0029&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&hide=issues,prs,stars" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulWasay0029&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" />
-</p>
 
 ---
 
-*Open for freelance projects · [abdulwasay0029.vercel.app](https://abdulwasay0029.vercel.app)*
+<div align="center">
+
+**App Development Lead @ Prompt Techies · 2nd Year CSE @ CMRIT Hyderabad**
+
+*Building toward SWE internships · Open to collaborations on real problems*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" width="100%"/>
