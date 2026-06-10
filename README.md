@@ -138,19 +138,15 @@ AI crop disease detection with bilingual support (Telugu/English). Built in 24 h
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AbdulWasay0029&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&hide=issues,prs,stars&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulWasay0029&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" />
-</div>
+## CodeSync Stats
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulWasay0029&theme=tokyonight&hide_border=true" />
+  <a href="https://codesync-hub.vercel.app/dashboard/profile">
+    <img src="https://codesync-hub.vercel.app/api/widgets/481554233817300993.svg" alt="CodeSync Stats" />
+  </a>
 </div>
-
 
 ---
 
