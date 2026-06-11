@@ -69,13 +69,6 @@ A full CP tracking platform. Started as a `.bat` file. Rebuilt 8 times.
 
 ---
 
-### [PrepTrack](https://github.com/AbdulWasay0029) — AI Interview Readiness Platform
-`Node.js` `Express` `PostgreSQL` `React` `Gemini API` `Google OAuth`
-
-Full-stack interview prep platform — REST API, database schema, Google OAuth, AI-generated feedback, deployed on Render + Vercel.
-
----
-
 ### [HealthSync](https://github.com/AbdulWasay0029/DTSRP) — Medical Reminder App
 `FastAPI` `Python` `MongoDB Atlas` `JWT` `React Native` `Expo`
 
@@ -100,7 +93,7 @@ Multi-role eLearning marketplace. Student/instructor accounts, course CRUD, YouT
 ### [CropSaviour](https://github.com/AbdulWasay0029/crop-app) — NeuraX Hackathon 2025
 `Python` `Gemini API` `React Native`
 
-AI crop disease detection with bilingual support (Telugu/English). Built in 24 hours, rebuilt post-hackathon with improved architecture.
+AI crop disease detection with bilingual support (Telugu/English). Built in 24 hours at NeuraX Hackathon (AI in Agriculture track). Original Rork AI scaffold proved unmaintainable post-event — rebuilt from scratch with proper architecture and Gemini API integration.
 
 ---
 
